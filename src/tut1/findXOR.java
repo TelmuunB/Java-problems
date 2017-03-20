@@ -1,3 +1,8 @@
+/*
+*Make a list from given N to M.
+*Convert each pair of elements into binary and make a new list of XOR binary strings.
+*Reduce list until it has a one element and convert into decimal. 
+*/
 package tut1;
 
 import java.util.Scanner;
